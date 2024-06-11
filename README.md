@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou João Carlos</h1>
-<h3 align="center">Sou graduado Sistemas, atualmente estudo Análise d Dados</h3>
+<h3 align="center">Sou graduado Sistemas, atualmente estudo Análise de Dados</h3>
 
 - 🌱 Atualmente estudo POWER BI **Cursei Excel avanç, MYSQL e HEIDISQL**
 
